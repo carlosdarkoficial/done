@@ -1,0 +1,59 @@
+  1  {
+  2     padding: 0;
+  3     margin; 0;
+  4     box-sizing: border-box;
+  5 }
+  6
+  7   body{
+  8     background: rgb(5, 166, 206);
+  9     font-family: 'poppins, sans-serif';
+ 10 }
+ 11
+ 12 .page-content{
+ 13     height: 100vh;
+ 14     display: flex;
+ 15     flex-direction: column;
+ 16     align-items: center;
+ 17     justify-content: center;
+ 18     padding: 0 5rem;
+ 19     text-align: center;
+ 20 }
+ 21
+ 22 .page-content h1{
+ 23     front-size: 3rem;
+ 24     text-transform: uppercase;
+ 25     collor: "edffec;
+ 26 }
+ 27
+ 28 .page-content h2{
+ 29     font-weight: 600;
+ 30 }
+ 31
+ 32 .page-button{
+ 33     display: flex;
+ 34     margin: 2rem 0;
+ 35 }
+ 36
+ 37 .bin.btn-pink{
+ 38     background: "dd2d4a;
+ 39     color: "fff;
+ 40     transition: all 0.5s ease-in-out;
+ 41 }
+ 42
+ 43 .bin-btn-pink:hover{
+ 44     background: transparent;
+ 45     border-color: "dd2d4a;
+ 46     color: =000;
+ 47 }
+ 48
+ 49 .page-info p{
+ 50     font-weight: 300;
+ 51     padding: 0.5rem;
+ 52 }
+ 53
+ 54 @media (max-width:758px){
+ 55     .container{
+ 56         padding: 20px;
+ 57         font-size: 4rem;
+ 58     }
+ 59 }
