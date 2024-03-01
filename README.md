@@ -29,7 +29,7 @@ cat: index.: No such file or directory
 
         <header>
             <div class="center">
-                <img src="./img/Adriana.png"></img>
+                <img src="./img/Carlos.png"></img>
             </div>
             <h1>Carlos Antônio</h1>
             <h2>Desenvolvedor de Software</h2>
