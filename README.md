@@ -1,4 +1,4 @@
-Bem-vindo ao meu portfólio! Este é um projeto simples desenvolvido utilizando HTML, CSS e JavaScript para mostrar alguns dos meus trabalhos e habilidades.
+Bem-vindo ao meu portfólio! Este é um projeto simples desenvolvido utilizando HTML, CSS e JavaScript usando termux para mostrar alguns dos meus trabalhos e habilidades.
 
 ## Estrutura do Projeto
 
